@@ -1,0 +1,5 @@
+config
+run_pineline_craw.py
+.idea
+logs
+C:\Users\vothu\PycharmProjects\ProjectNLP\sentiment_analysis\data\database\youtube_comments.db
